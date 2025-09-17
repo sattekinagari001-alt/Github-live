@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Banknifty Trader - Telegram Channel</title>
+
+  <!-- Favicon / Logo -->
+  <link rel="icon" href="logo.png" type="image/png" />
+
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="Banknifty Trader - Live BankNifty setups, daily trading signals & Telegram community." />
+  <meta name="keywords" content="Banknifty, Trading, Stock Market, Telegram, Intraday, Options" />
+  <meta name="author" content="Banknifty Trader" />
+
+  <!-- Social Media Preview -->
+  <meta property="og:title" content="Banknifty Trader - Telegram Channel" />
+  <meta property="og:description" content="Join Banknifty Trader for daily trading setups, alerts & community support." />
+  <meta property="og:image" content="preview.jpg" />
+  <meta property="og:url" content="https://yourdomain.com" />
+  <meta property="og:type" content="website" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: linear-gradient(135deg, #f9fafb, #e0f2fe);
+      color: #1f2937;
+      line-height: 1.6;
+    }
+    header {
+      background: linear-gradient(135deg, #2563eb, #1d4ed8);
+      color: white;
+      text-align: center;
+      padding: 50px 20px;
+      border-bottom-left-radius: 40px;
+      border-bottom-right-radius: 40px;
+      position: relative;
+    }
+    header img {
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      border: 3px solid white;
+      margin-bottom: 15px;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 15px;
+    }
+    header p {
+      font-size: 1.3rem;
+      opacity: 0.95;
+    }
+    .container {
+      max-width: 1000px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    .benefits {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 25px;
+      margin: 40px 0;
+    }
+    .card {
+      background: white;
+      border-radius: 20px;
+      box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+      padding: 25px;
+      text-align: center;
+      transition: transform 0.3s ease;
+    }
+    .card:hover {
+      transform: translateY(-5px);
+    }
+    .card h3 {
+      color: #2563eb;
+      margin-bottom: 12px;
+    }
+    .cta {
+      text-align: center;
+      margin: 50px 0;
+    }
+    .cta a {
+      background: #2563eb;
+      color: white;
+      padding: 16px 35px;
+      border-radius: 35px;
+      font-size: 1.3rem;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    .cta a:hover {
+      background: #1d4ed8;
+      transform: scale(1.05);
+    }
+    footer {
+      text-align: center;
+      background: #f3f4f6;
+      padding: 25px;
+      font-size: 0.95rem;
+      color: #6b7280;
+      border-top: 1px solid #e5e7eb;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <!-- 🔹 यहां अपना logo image (logo.png) लगाना है -->
+    <img src="logo.png" alt="Banknifty Trader Logo">
+    <h1>📊 Banknifty Trader</h1>
+    <p>Live BankNifty Trading Setups, Signals & Community Updates</p>
+  </header>
+
+  <div class="container">
+    <section class="benefits">
+      <div class="card">
+        <h3>✅ Daily Alerts</h3>
+        <p>हर दिन BankNifty के fresh ट्रेडिंग alerts और levels।</p>
+      </div>
+      <div class="card">
+        <h3>📈 Chart Insights</h3>
+        <p>Market moves के चार्ट्स और आसान समझने योग्य analysis।</p>
+      </div>
+      <div class="card">
+        <h3>🤝 Free Community</h3>
+        <p>ट्रेडर्स की Telegram कम्युनिटी से जुड़ें और सीखें।</p>
+      </div>
+    </section>
+
+    <div class="cta">
+      <!-- 👉 यहां अपना असली Telegram Link डालें -->
+      <a href="https://t.me/YOUR_CHANNEL_LINK" target="_blank">🚀 Join on Telegram</a>
+    </div>
+  </div>
+
+  <footer>
+    ⚠️ Disclaimer: यह चैनल केवल शैक्षणिक उद्देश्य के लिए है।  
+    कोई financial advice या guaranteed profit का दावा नहीं किया जाता।  
+    <br/> Contact: info@yourdomain.com
+  </footer>
+</body>
+</html>
